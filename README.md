@@ -1,6 +1,6 @@
 # Muskan Verma
 
-**Aspiring Software Developer | Problem Solving | Backend & Web Development**
+**Aspiring Software Developer | Problem Solving |  Web Development**
 
 I am an aspiring software developer focused on strengthening my foundations in Data Structures and Algorithms, writing efficient code in C++, and developing practical software projects. I am interested in understanding how software systems work, designing clean and maintainable solutions, and expanding my knowledge of backend development.
 
@@ -28,21 +28,21 @@ A personal portfolio built to present my background, technical skills, projects,
 - Organized the website into dedicated sections for introduction, skills, projects, and contact information.
 - Published the website using GitHub Pages.
 
-**Technologies:** HTML5, CSS3, JavaScript, Git, GitHub Pages
+**Technologies:** HTML5, CSS3, GitHub Pages
 
 ## Technical Skills
 
-**Programming Languages:** C++, Java, JavaScript
+**Programming Languages:** C++, Java, 
 
 **Computer Science Fundamentals:** Data Structures and Algorithms, Object-Oriented Programming, Problem Solving
 
 **Web Development:** HTML5, CSS3, Responsive Web Design
 
-**Tools and Platforms:** Git, GitHub, Visual Studio Code, GitHub Pages
+**Tools and Platforms:**  GitHub, Visual Studio Code, GitHub Pages
 
 ## Coding Profiles
 
-- **LeetCode:** [View Coding Profile](YOUR_LEETCODE_PROFILE_URL)
+- **LeetCode:** [View Coding Profile](https://leetcode.com/u/Muskan_verma07/)
 - **GitHub:** [Explore Repositories](https://github.com/Muskan8483)
 
 ## Current Learning
